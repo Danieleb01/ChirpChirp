@@ -8,3 +8,6 @@ The front-end of the web application has been created with HTML, Bootstrap, CSS 
 * **MongoDB Java drivers** to connect to a MongoDB database;
 * **Bson library** which contains different interfaces (such as Document) needed to operate with the methods provided by the MongoDB library;
 * **Gson library** which is a library developed by Google and it's used to convert objects to JSON and the other way round.
+## Used design patterns
+* Singleton;
+* Factory Method.
