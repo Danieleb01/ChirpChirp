@@ -10,4 +10,5 @@ The front-end of the web application has been created with HTML, Bootstrap, CSS 
 * **Gson library** which is a library developed by Google and it's used to convert objects to JSON and the other way round.
 ## Used design patterns
 * Singleton;
-* Factory Method.
+* Factory Method;
+* Facade.
